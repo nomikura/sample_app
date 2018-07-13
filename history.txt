@@ -1,0 +1,812 @@
+    1  ls
+    2  pwd
+    3  sudo yum install -y git gcc
+    4  git clone https://github.com/riywo/anyenv ~/.anyenv
+    5  vi ~/.bashrc
+    6  exec $SHELL -l
+    7  exit
+    8  exec $SHELL -l
+    9  vim ~/.bashrc
+   10  vi ~/.bashrc
+   11  man exec
+   12  exec $SHELL --login
+   13  exit
+   14  where ls
+   15  which ls
+   16  which anyenv
+   17  cat ~/.anyenv
+   18  ls
+   19  pwd
+   20  mkdir 
+   21  mkdir work
+   22  cd work/
+   23  vim memo.txt
+   24  vi memo.txt
+   25  cat memo.txt 
+   26  rm memo.txt 
+   27  cd ../
+   28  ls
+   29  rmdir work/
+   30  l
+   31  ls
+   32  cat ~/.anyenv
+   33  cd ~/
+   34  ls -a
+   35  ls ^ls
+   36  ls -la
+   37  vim .anyenv/
+   38  vi .bashrc 
+   39  anyenv versions
+   40  anyenv -v
+   41  history
+   42  ls *your*
+   43  ls *bash*
+   44  ls -la *bash*
+   45  ls -la
+   46  vi .bashprofile
+   47  vi .bash_profile 
+   48  vi .bashrc 
+   49  exec $SHELL -l
+   50  anyenv install -l
+   51  grep anyenv install -l | rbenv
+   52  anyenv install rbenv
+   53  exec $SHELL -l
+   54  rbenv install 2.5.0
+   55  rbenv global 2.5.0
+   56  ruby -v
+   57  rbenv --version
+   58  rbenv global
+   59  ruby -v
+   60  $ git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+   61  git -v
+   62  git --version
+   63  git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+   64  ruby -v
+   65  rbenv install 2.5.0
+   66  rbenv rehash
+   67  ruby -v
+   68  sudo yum install -y git git-core zlib zlib-devel gcc-c++ patch readline readline-devel libyaml-devel libffi-devel openssl-devel make bzip2 autoconf automake libtool bison curl sqlite-devel ImageMagick ImageMagick-devel mysql-devel
+   69  rbenv -v
+   70  rbenv install 2.5.0
+   71  ruby -v
+   72  rbenv global 2.5.0
+   73  ruby -v
+   74  gem install bundler
+   75  gem install rails -v 5.1.4
+   76  rails -v
+   77  curl --silent --location https://rpm.nodesource.com/setup_8.x | sudo bash -
+   78  pwd
+   79  ls
+   80  mkdir workspace
+   81  cd workspace/
+   82  rails new blog
+   83  cd blog/
+   84  cd ../
+   85  ls
+   86  cd blog/
+   87  ls
+   88  history
+   89  rails s
+   90  cd ../
+   91  rails s
+   92  cd blog/
+   93  rails -v
+   94  ruby -v
+   95  bin/rails server
+   96  ruby bin\rails server
+   97  bin/rails server
+   98  exi5
+   99  exit
+  100  bin/rails server
+  101  pwd
+  102  rails new blog
+  103  cd blog/
+  104  bin/rails server
+  105  clear
+  106  bin/rails server
+  107  pwd
+  108  ls
+  109  ls Gemfile
+  110  vi Gemfile
+  111  bin/rails server
+  112  vi Gemfile
+  113  bundle install
+  114  bin/rails server
+  115  cd ../
+  116  pwd
+  117  mkdir memo
+  118  cd memo/
+  119  history > hist.txt
+  120  vim hist.txt 
+  121  vi hist.txt 
+  122  cd ../
+  123  cd blog/
+  124  sudo
+  125  bin/rails server
+  126  vi .bashrc
+  127  vi ~/bashrc
+  128  vi ~/.bashrc
+  129  rails -v
+  130  curl --silent --location https://rpm.nodesource.com/setup_8.x | sudo bash -
+  131  sudo yum install -y nodejs
+  132  ls
+  133  vi Gemfile
+  134  grep *bundle* history
+  135  cd ../
+  136  bundle update
+  137  cd blog/
+  138  bundle update
+  139  bin/rails server
+  140  vi ~/.bashrc
+  141  cd ../
+  142  vi .bash_profile 
+  143  exit
+  144  cd blog/
+  145  data
+  146  ls
+  147  date
+  148  cd
+  149  mkdir environment
+  150  cd environment/
+  151  rails _5.1.4_ new hello_app
+  152  ls
+  153  cd hello_app/
+  154  ls
+  155  vim Gemfile
+  156  vi Gemfile
+  157  bundle install
+  158  vi Gemfile
+  159  bundle install
+  160  vi Gemfile
+  161  bundle install
+  162  vi Gemfile
+  163  bundle install
+  164  vi Gemfile
+  165  bundle install
+  166  vi Gemfile
+  167  bundle install
+  168  vi Gemfile
+  169  bundle install
+  170  pwd
+  171  vi Gemfile
+  172  bundle update
+  173  bundle install
+  174  rails server
+  175  screen
+  176  tmux
+  177  sudo yum -y install ymux
+  178  sudo yum -y install tmux
+  179  tmux
+  180  tmux a
+  181  rails server
+  182  ls
+  183  tree
+  184  history
+  185  sudo yum -y install tree
+  186  tree
+  187  ls app/controllers/*_controller.rb
+  188  vi app/controllers/application_controller.rb 
+  189  vi ^/.virc
+  190  vi ^/.vimrc
+  191  ls ~/.vi*
+  192  ls -a ~/.vi*
+  193  vi app/controllers/application_controller.rb 
+  194  vi config/routes.rb 
+  195  rails server
+  196  exit
+  197  ls
+  198  cd workspace/
+  199  cd ../
+  200  cd workspace/
+  201  rails _5.1.4_ new hello_app
+  202  bundle update
+  203  cd hello_app/
+  204  bundle update
+  205  rails server
+  206  bundle install
+  207  rails server
+  208  $ yum -y install curl-devel expat-devel gettext-devel openssl-devel zlib-devel perl-ExtUtils-MakeMaker
+  209  cd ../
+  210  xsel > t.txt
+  211  yum -y install xsel
+  212  sudo yum -y install xsel
+  213  ls
+  214  cat t.txt 
+  215  xsel > t.txt 
+  216  cat t.txt 
+  217  $ yum -y install curl-devel expat-devel gettext-devel openssl-devel zlib-devel perl-ExtUtils-MakeMaker
+  218  yum -y install curl-devel expat-devel gettext-devel openssl-devel zlib-devel perl-ExtUtils-MakeMaker
+  219  sudo yum -y install curl-devel expat-devel gettext-devel openssl-devel zlib-devel perl-ExtUtils-MakeMaker
+  220  wget https://www.kernel.org/pub/software/scm/git/git-2.4.0.tar.gz
+  221  tar zxvf git-2.4.0.tar.gz
+  222  cd git-2.4.0
+  223  make prefix=/usr/local all
+  224  history
+  225  make prefix=/usr/local install
+  226  git --version
+  227  history
+  228  cd /usr/local/src/
+  229  git clone git://git.kernel.org/pub/scm/git/git.git
+  230  git --version
+  231  git clone git://git.kernel.org/pub/scm/git/git.git
+  232  yum -y install git
+  233  sudo yum -y install git
+  234  git --version
+  235  git clone git://git.kernel.org/pub/scm/git/git.git
+  236  sudo git clone git://git.kernel.org/pub/scm/git/git.git
+  237  cd git/
+  238  make prefix=/usr/local/ all
+  239  make prefix=/usr/local install
+  240  git --version
+  241  exec $SHELL -l
+  242  git --version
+  243  git clone git://git.kernel.org/pub/scm/git/git.git
+  244  sudo git clone git://git.kernel.org/pub/scm/git/git.git
+  245  git --version
+  246  pwd
+  247  ls
+  248  ls *git*
+  249  source /etc/profile
+  250  git --version
+  251  sudo yum install curl-devel expat-devel gettext-devel \
+  252  sudo yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel
+  253  apt-get install libcurl4-gnutls-dev libexpat1-dev gettext libz-dev libssl-dev
+  254  sudo apt-get install libcurl4-gnutls-dev libexpat1-dev gettext libz-dev libssl-dev
+  255  git --version
+  256  which git
+  257  cd ../
+  258  cd
+  259  ls
+  260  cd workspace/
+  261  ls
+  262  cd git-2.4.0
+  263  ls
+  264  cd ../
+  265  cd -
+  266  cd ../
+  267  exit
+  268  git --version
+  269  git clone git://git.kernel.org/pub/scm/git/git.git
+  270  git --version
+  271  yum remove git
+  272  git --version
+  273  sudo yum remove git
+  274  git --version
+  275  ls
+  276  cd /usr/local/src/
+  277  ls *git*
+  278  cd -
+  279  exit
+  280  git --version
+  281  sudo yum install git-all
+  282  git --version
+  283  git clone git://git.kernel.org/pub/scm/git/git.git
+  284  sudo git clone git://git.kernel.org/pub/scm/git/git.git
+  285  cd /usr/local/src/
+  286  git
+  287  git clone git://git.kernel.org/pub/scm/git/git.git
+  288  cd ~
+  289  cd
+  290  git clone git://git.kernel.org/pub/scm/git/git.git
+  291  cd /usr/local/src/
+  292  git clone git://git.kernel.org/pub/scm/git/git.git
+  293  pwd
+  294  grep ls | *git*
+  295  rm git/
+  296  rm -rf git
+  297  cd git
+  298  ls
+  299  rm *
+  300  ls
+  301  rm *.c
+  302  rm -f *.c
+  303  cd ../
+  304  rmdir git/
+  305  rm -rf git/
+  306  sudo rm -f git/
+  307  sudo rm -rf git/
+  308  cd git
+  309  ls
+  310  cd ../
+  311  ls
+  312  cd ../
+  313  ls
+  314  cd ../
+  315  cd
+  316  git --version
+  317  git clone git://git.kernel.org/pub/scm/git/git.git
+  318  exit
+  319  git --version
+  320  git clone git://git.kernel.org/pub/scm/git/git.git
+  321  sudo git clone git://git.kernel.org/pub/scm/git/git.git
+  322  ls
+  323  rm -rf git/
+  324  ls
+  325  git --version
+  326  git clone git://git.kernel.org/pub/scm/git/git.git
+  327  git --version
+  328  ls
+  329  cd /usr/local/src/
+  330  cd ../
+  331  exit
+  332  git --version
+  333  git clone git://git.kernel.org/pub/scm/git/git.git
+  334  git config --gloval user.name "nomikura"
+  335  git config --global user.name "nomikura"
+  336  git config --global user.email intmain33@gmail.com
+  337  pwd
+  338  ls
+  339  cd workspace/
+  340  ls
+  341  cd hello_app/
+  342  git init
+  343  ls
+  344  ls -la
+  345  git add -A
+  346  git status
+  347  git commig -m "Initialize repository"
+  348  git commit -m "Initialize repository"
+  349  git log
+  350  ls app/controllers/
+  351  rm -rf app/controllers/
+  352  git status
+  353  git checkout -f
+  354  git status
+  355  ls app/controllers/
+  356  vi ~/.gitconfig
+  357  git clone https://github.com/nomikura/hello_app.git
+  358  cd ~/.ssh
+  359  ls
+  360  ssh-keygen -t rsa
+  361  ls ~/.ssh/id_rsa.pub
+  362  cat ~/.ssh/id_rsa.pub
+  363  cat ~/.ssh/id_rsa.pub | xsel -bi
+  364  cat ~/.ssh/id_rsa.pub > ~/workspace/memo.txt
+  365  history
+  366  ls
+  367  ssh -T git@github.com
+  368  git config remote.origin.url
+  369  cd ~
+  370  cd workspace/hello_app/
+  371  git config remote.origin.url
+  372  git remote ser-url origin git@github.com:nomikura/hello_app.git
+  373  git remote set-url origin git@github.com:nomikura/hello_app.git
+  374  hisotry
+  375  history
+  376  git push origin master
+  377  history | *git*
+  378  git log
+  379  git add .
+  380  git commit -m "Second"
+  381  git log
+  382  git remote add origin https://github.com/nomikura/hello_app.git
+  383  git push -u origin master
+  384  vi ~/.gitconfig 
+  385  git push -u origin master
+  386  vi ~/.gitconfig
+  387  vi ~/.ssh/config
+  388  git push -u origin master
+  389  vi ~/.ssh/config
+  390  git push -u origin master
+  391  ls
+  392  cat README.md 
+  393  vi ~/.ssh/config
+  394  ssh -T git@github.com
+  395  cd ~ssh/config
+  396  cd ~/ssh
+  397  cd ~/.ssh/config 
+  398  ls
+  399  cd ~/ssh
+  400  cd ~/ssh/
+  401  cd ../
+  402  cd hello_app/
+  403  cd ~/.ssh
+  404  ls
+  405  rm config 
+  406  ls
+  407  git -T git@github.com
+  408  ssh -T git@github.com
+  409  cd -
+  410  git config remote.origin.url
+  411  git remote set-url origin git@github.com:nomikura/hello_app.git
+  412  git push origin master
+  413  git checkout -b modiy-README
+  414  git branch
+  415  vi README.md 
+  416  git status
+  417  git commit -a -m "Improve the README file"
+  418  git checkout master
+  419  git branch
+  420  git merge modify-README
+  421  git merge modiy-README
+  422  git branch -d modiy-README
+  423  git branch
+  424  git origin master push
+  425  git push
+  426  ls
+  427  ls -ls
+  428  ls -la
+  429  git clone https://github.com/nomi/hello_app.git
+  430  vi ~/.gitconfig 
+  431  git origin master push
+  432  git push origin master
+  433  git  pull
+  434  git fetch
+  435  git merge origin/master
+  436  it rebase origin/master
+  437  git rebase origin/master
+  438  git push origin master
+  439  rm .git
+  440  rm -rf .git
+  441  ls
+  442  git init
+  443  git add
+  444  git add -A
+  445  git commit -m "Third"
+  446  git log
+  447  git remote add hello_app https://github.com/nomikura/hello_app.git
+  448  git push origin master
+  449  exit
+  450  ls
+  451  cd workspace/
+  452  ls
+  453  cd hello_app/
+  454  rails server
+  455  cd ~/.ssh
+  456  ssh-keygen -t rsa
+  457  ls
+  458  ls -ls
+  459  ls -la
+  460  ls
+  461  cat id_rsa
+  462  cat id_rsa.pub 
+  463  clip < ~/.ssh/id_rsa.pub
+  464  pbcopy < ~/.ssh/id_rsa.pub
+  465  cat id_rsa.pub 
+  466  cat id_rsa.pub > ~/workspace/key_memo.txt
+  467  ssh -T git@github.com
+  468  cat ~/.ssh/config
+  469  git config remote.origin.url
+  470  ls
+  471  vim config
+  472  vi config
+  473  ssh -T github
+  474  rm config 
+  475  ls
+  476  ssh -T github
+  477  ssh -T git@github.co
+  478  ssh -T git@github.com
+  479  cd ~
+  480  vi .gitconfig 
+  481  git config remote.origin.url
+  482  cd ~
+  483  vi .gitconfig 
+  484  vi ~/.ssh/config
+  485  git remote -v
+  486  cd workspace/
+  487  cd hello_app/
+  488  ls la
+  489  ls -la
+  490  git remote -v
+  491  vi config
+  492  git commit -m "aiueo"
+  493  git add -A
+  494  git commit -m "aiueo"
+  495  gig log
+  496  git config remote.origin.url
+  497  cd ../
+  498  vi .gitconfig 
+  499  git remote add origin https://github.com/nomikura/hello_app.git
+  500  cd workspace/hello_app/
+  501  git remote add origin https://github.com/nomikura/hello_app.git
+  502  git add
+  503  git add .
+  504  git commit -m "aiueo"
+  505  git remote add hello_app/https://github.com/nomikura/hello_app.git
+  506  git push origin master
+  507  git commit
+  508  git log
+  509  git remote add hello_app/ https://github.com/nomikura/hello_app.git
+  510  git remote add hello_app https://github.com/nomikura/hello_app.git
+  511  git push origin master
+  512  git pull origin master
+  513  git remote add hello_app https://github.com/nomikura/hello_app
+  514  git remote rm hello_app
+  515  git remote add hello_app https://github.com/nomikura/hello_app
+  516  git push origin master
+  517  git remote set-url origin git@github.com:nomikura/hello_app.git
+  518  git push origin master
+  519  git pull
+  520  git push origin master
+  521  git fetch
+  522  git merge origin/master
+  523  git push origin master
+  524  git fetch git rebase origin/master
+  525  git rebase origin/master
+  526  git push origin master
+  527  git remote -v
+  528  git push origin master
+  529  git remote set-url origin git@github.com:nomikura/hello_app.git
+  530  git push origin master
+  531  git push origin :branch-name
+  532  git pull
+  533  git push remote origin
+  534  git push origin master
+  535  git fetch
+  536  git merge origin/master
+  537  git pull origin bacchi
+  538  git push origin master
+  539  git branch temp1
+  540  git checkout temp1
+  541  git push origin master
+  542  git push --help
+  543  git push origin dev
+  544  git push -u origin master
+  545  git pull
+  546  git commit -a
+  547  git status
+  548  git add .
+  549  git commit -m "aiueo"
+  550  git push origin master
+  551  git statuc
+  552  git status
+  553  git checkout -b modify-README
+  554  git branch
+  555  vi README.md 
+  556  git status
+  557  git commit -a -m "Improve the README file"
+  558  git checkout masster
+  559  git checkout master
+  560  git merge modify-README
+  561  git branch -d modify-README
+  562  gi branch
+  563  git branch
+  564  git push
+  565  git push origin master
+  566  cd ../
+  567  rails _5.1.4_ new toy_app
+  568  cd ..
+  569  cd workspace/
+  570  cd hello_app/
+  571  vi Gemfile
+  572  cd ../
+  573  cd ~
+  574  vi .virc
+  575  vi .exrc
+  576  bundle install --widhtout production
+  577  cd workspace/hello_app/
+  578  bundle install --widhtout production
+  579  bundle --without production
+  580  git commit -a -m "Update Gemfile for Heroku"
+  581  git log
+  582  heroku --version
+  583  source <(curl -sL https://cdn.learnenough.com/heroku_install)
+  584  heroku --version
+  585  heroku login
+  586  heroku create
+  587  git push heroku master
+  588  heroku rename rails-tutorial-hello
+  589  heroku rename tutorial_hellohellohello
+  590  heroku rename tutorial-hellohellohello
+  591  cd ../toy_app/
+  592  echo aiueo
+  593  ls -la
+  594  cd ../
+  595  cd hello_app/
+  596  cd ../toy_app/
+  597  cp ../hello_app/Gemfile Gemfile
+  598  bundle install -without production
+  599  bundle update
+  600  vi Gemfile
+  601  bundle --widthout production
+  602  bundle install --widthout production
+  603  bundle install --without production
+  604  bundle update
+  605  bundle install --widhout production
+  606  bundle install --widthout production
+  607  bundle install --without production
+  608  git init
+  609  git add -A
+  610  git commit -m "Initialize repository"
+  611  git remote add origin https://github.com/nomikura/toy_app.git
+  612  git push -u origin master
+  613  git remote add origin https://github.com/nomikura/toy_app.git
+  614  git remote -v
+  615  git remote rm origin
+  616  git remote -v
+  617  git remote add origin https://github.com/nomikura/toy_app.git
+  618  git remote -v
+  619  git remote set -url origin aiueo
+  620  git remote -v
+  621  git remote set -url origin https://github.com/nomikura/hello_app.git
+  622  git remote -v
+  623  git push -u origin master
+  624  git log
+  625  git push -u origin --all
+  626  git remote -v
+  627  git remote rm origin
+  628  git remote add origin https://github.com/nomikura/toy_app.git
+  629  git remote -v
+  630  git push -u origin master
+  631  git push -u origin/master
+  632  git remote -v
+  633  ../hello_app/ git remote -v
+  634  cd ../hello_app/
+  635  git remote -v
+  636  cd ../toy_app/
+  637  git remote -v
+  638  git push -u origin master
+  639  git status
+  640  ls
+  641  git log
+  642  git push origin master
+  643  git remote add origin https://github.com/nomikura/toy_app.git
+  644  git remote rm origin
+  645  git remote add origin https://github.com/nomikura/toy_app.git
+  646  git remote -v
+  647  git remote rm origin
+  648  git remote add origin https://github.com/nomikura/toy_app.git
+  649  git remote -v
+  650  git remote rm origin
+  651  git remote add origin git@github.com:nomikura/toy_app.git
+  652  git push -u origin master
+  653  cd ../
+  654  mdkir aiueo
+  655  mkdir aiueo
+  656  rm aiueo/
+  657  ls
+  658  rm -rf aiueo/
+  659  ls
+  660  mkdir [aiu]
+  661  ls
+  662  rm aiu
+  663  rm -rf aiu
+  664  ls
+  665  rm -rf [aiu]
+  666  ls
+  667  cd toy_app/
+  668  git remote -v
+  669  git commig -am "Add hello"
+  670  git commit -am "Add hello"
+  671  heroku create
+  672  git push heroku master
+  673  heroku keys:add
+  674  heroku login
+  675  history
+  676  git push heroku master
+  677  heroku login
+  678  git push heroku master
+  679  rails generate scaffold User name:string email:string
+  680  rails db:migrate
+  681  rails server
+  682  rails generate scaffold Micropost content:text user_id:integer
+  683  rails server
+  684  cd ../
+  685  cd hello_app/
+  686  git push heroku master
+  687  vim app/controllers/application_controller.rb 
+  688  vi app/controllers/application_controller.rb 
+  689  git push heroku master
+  690  git add .
+  691  git push heroku master
+  692  git commit -m "change controller"
+  693  git push heroku master
+  694  rails server
+  695  exit
+  696  ls
+  697  exit
+  698  ls
+  699  cd workspace/
+  700  ls
+  701  mkdir prominence
+  702  cd prominence/
+  703  git remote add origin git@github.com:dynamis724/prominence.git
+  704  git push -u origin master
+  705  ls
+  706  git init
+  707  echo "# prominence" >> README.md
+  708  git add README.md
+  709  git commit -m "first commit"
+  710  git remote add origin git@github.com:dynamis724/prominence.git
+  711  git push -u origin master
+  712  ls
+  713  exti
+  714  exit
+  715  ls
+  716  cd workspace/
+  717  ls
+  718  cd toy_app/
+  719  ls
+  720  ls -la
+  721  rails server
+  722  git commit -am "hello"
+  723  git push heroku master
+  724  cd ../
+  725  ls
+  726  rm -rf toy_app/
+  727  ls
+  728  rails _5.1.4_ now toy_app
+  729  rails _5.1.4_ new toy_app
+  730  cd toy_app/
+  731  cp ../hello_app/Gemfile Gemfile
+  732  bundle install --widhout production
+  733  bundle install --without production
+  734  bundle update
+  735  bundle install --without production
+  736  git init
+  737  git add -A
+  738  git commit -m "Initialize repository"
+  739  git remote add origin git@github.com:nomikura/toy_app.git
+  740  git push -u origin master
+  741  git commit -am "Add hello"
+  742  heroku create
+  743  gi push heroku master
+  744  git push heroku master
+  745  rails generate scaffold User name:string email:string
+  746  rails db:migrate
+  747  rails server
+  748  rails generate scaffold Micropost content:text user_id:integer
+  749  rails dp:migrate
+  750  rails server
+  751  bin/rails dp:migrate RAILS_ENV=development
+  752  rails server
+  753  rail db:migrate
+  754  rails db:migrate
+  755  rails server
+  756  rails console
+  757  git status
+  758  git add -A
+  759  git commit -m "Finish toy app"
+  760  git push
+  761  git push heroku
+  762  cd ../
+  763  rails _5.1.4_ new sample_app
+  764  cp toy_app/Gemfile sample_app/Gemfile
+  765  bundle update
+  766  cd sample_app/
+  767  bundle update
+  768  bundle install
+  769  bundle install --without production
+  770  cd ../
+  771  rm -rf sample_app/
+  772  rails _5.1.4_ new sample_app
+  773  cp toy_app/Gemfile sample_app/Gemfile
+  774  bundle update
+  775  cd sample_app/
+  776  bundle update
+  777  bundle install --without production
+  778  git init
+  779  git add -A
+  780  git comiit -m "Initialize repository"
+  781  git commit -m "Initialize repository"
+  782  git commit -am "update README"
+  783  git remote add origin git@github.com:nomikura/sample_app.git
+  784  git push -u origin master
+  785  git commit -am "Add hello"
+  786  git push
+  787  heroku create
+  788  git push heroku master
+  789  git heroku push
+  790  git push heroku master
+  791  bundle install --without production
+  792  bundle update
+  793  bundle install --without production
+  794  git push heroku master
+  795  git commit -am "tekitou"
+  796  git push heroku master
+  797  heroku logs
+  798  heroku info --app sample_app
+  799  heroku apps:info
+  800  git checkout -b static-pages
+  801  git status
+  802  git branch
+  803  rails generate controller StaticPages home help
+  804  git add -A
+  805  git commit -m "Add a Static Pages controller"
+  806* 
+  807  rails s
+  808  history > history.txt
+  809  vim history.txt 
+  810  vi history.txt 
+  811  rails generate controller StaticPages home help
+  812  history > history.txt 
