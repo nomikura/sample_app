@@ -1,0 +1,16 @@
+Run options: --seed 36238
+
+# Running:
+
+Run options: --seed 36238
+
+# Running:
+
+......FF
+
+Failure:
+StaticPagesControllerTest#test_should_get_contact [/home/vagrant/workspace/sample_app/test/controllers/static_pages_controller_test.rb:31]:
+<a> expected but was
+<About | Ruby on Rails Tutorial Sample App>..
+Expected 0 to be >= 1.
+
